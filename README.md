@@ -1,4 +1,4 @@
-# Mission 2: Car Insurance Risk and Value APIs
+# Car Insurance Risk and Value APIs
 
 This project provides two APIs: `riskRating` and `carValue`. The `riskRating` API assesses car insurance risk based on claim history, enabling quick and reliable quote generation. The `carValue` API estimates the value of a car based on its model and year, providing a baseline for insurance calculations.
 
